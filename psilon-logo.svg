@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="75.886"
+   height="39.252"
+   viewBox="0 -7.751 75.886 39.252"
+   sodipodi:docname="psilon-logo.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="psilon-logo"
+     transform="matrix(1.3333333,0,0,-1.3333333,-6.6387265,20.514464)">
+    <g
+       id="g10"
+       transform="translate(72,-53.958)">
+      <g
+         id="g12"
+         transform="translate(-62.42,57.253)">
+        <g
+           id="g14">
+          <g
+             id="g16">
+            <path
+               d="M 0,-0.42519 V 4.25226 C 0,5.6697 4.25226,8.50455 4.25226,11.3394"
+               style="fill:none;stroke:#4f7ef7;stroke-width:0.69739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path18" />
+            <path
+               d="M 0,0 V 7.08713 C 0,8.50455 2.12613,8.50455 2.12613,11.3394"
+               style="fill:none;stroke:#4f7ef7;stroke-width:0.69739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path20" />
+            <path
+               d="M 0,0 V 11.3394"
+               style="fill:none;stroke:#4f7ef7;stroke-width:0.69739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path22" />
+            <path
+               d="M 0,0 V 7.08713 C 0,8.50455 -2.12613,8.50455 -2.12613,11.3394"
+               style="fill:none;stroke:#4f7ef7;stroke-width:0.69739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path24" />
+            <path
+               d="M 0,0 V 4.25226 C 0,5.6697 -4.25226,8.50455 -4.25226,11.3394"
+               style="fill:none;stroke:#4f7ef7;stroke-width:0.69739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path26" />
+            <g
+               id="g28">
+              <g
+                 id="g30">
+                <g
+                   id="g32"
+                   transform="scale(-1)">
+                  <g
+                     id="g34" />
+                  <g
+                     id="g36"
+                     transform="rotate(180,-31.21,28.6265)">
+                    <g
+                       id="g38" />
+                    <g
+                       id="g40"
+                       transform="matrix(0.80005,0,0,0.80005,-6.71,10.975)">
+                      <text
+                         xml:space="preserve"
+                         transform="matrix(1,0,0,-1,-62.42,57.253)"
+                         style="font-variant:normal;font-weight:300;font-size:20.6625px;font-family:'Noto Serif';-inkscape-font-specification:NotoSerif-Light;writing-mode:lr-tb;fill:#4f7ef7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text44"><tspan
+                           x="0 12.087563 20.972437 27.212513 33.101326 44.589676"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan42">Psilon</tspan></text>
+                    </g>
+                    <g
+                       id="g46"
+                       transform="translate(-62.42,57.253)" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+               id="g48">
+              <g
+                 id="g50">
+                <g
+                   id="g52"
+                   transform="scale(-1)">
+                  <g
+                     id="g54" />
+                  <g
+                     id="g56"
+                     transform="rotate(180,-31.21,28.6265)">
+                    <g
+                       id="g58" />
+                    <g
+                       id="g60"
+                       transform="translate(-3.669,5.67)" />
+                    <g
+                       id="g62"
+                       transform="translate(-62.42,57.253)" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
